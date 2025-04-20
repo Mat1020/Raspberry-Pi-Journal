@@ -112,7 +112,8 @@ Now, you're ready! You can use one of the 3 commands we discused about with your
 led.on()
 </pre>
 
-4 ) My Program Examples:
+## Final Project
+As 
 
-A. led_flash.py <br>
-This Python script is making the LED blink (turn on and off) for 5 times with a 0.5-second sleep in between. 
+➢ **Folders:**
+A. LED Flash

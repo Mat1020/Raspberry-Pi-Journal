@@ -77,8 +77,6 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
 
 ➢ **Explanation** <br>
-This circuit is simple enough to visually see what is going on, but beginners may find it challenging to understand.
-
 The male/female jumpers (or wires) are connected to GND pin and GPIO 17 pin. The GND pin stands for _ground pin_, which basicly what it does it's to provide a **unstopable power scource**. In contrast, the GPIO 17 acts like a power source that can be controll (which is one of the many uses). The GND pin is connected to the negative row of the breadboard (providing negative energy) and the GPIO 17 is connected to the positive row of the breadboard (providing positive energy).
 
 Then, we have the resistor. The resistor is crucial for this circuit because it limits the current flowing through the LED so the LED can't get damage over time. The type of resistor is 100 ohm, but the type of resistor depends on the resistance, power rating, and other factors of the circuit.

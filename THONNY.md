@@ -20,7 +20,7 @@ Thonny's icon looks like:
 
 3. After you're done programming, click "Save" button on the top.
 
-4. Save your file in the folder you've previously created. If you created more than one, repeat the process to each file.
+4. Save your file in the folder you've previously created for your new project. If you created more than one file, repeat the process to each file.
 
 5. Now, you have your files saved in a folder for your project. You can close Thonny and everything since it's all saved now.
 

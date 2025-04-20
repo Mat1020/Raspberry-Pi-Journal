@@ -88,6 +88,8 @@ Finally, we have the LED. The LED is being powered by the 100 ohm resistor on th
 ## Writting the Code
 For this project, we would be learning **3 commands** for the LED (even though we'd only using 2).
 
+For each of these projects, we'd using **Thony** 
+
 | Command | Description | Module/Library | Programming Language | 
 |-----------|-----------|----------|----------|
 | .on() | Turns the LED on | gpiozero | Python |
@@ -105,19 +107,9 @@ Create a variable named "led" and attach the "LED(17)" value to it:
 led = LED(17)
 </pre>
 
-The 'led.on()' method turns on the LED:
+Now, you're ready! You can use one of the 3 commands we discused about with your Raspberry Pi. If needed, this is an example of turning on the LED:
 <pre>
 led.on()
-</pre>
-   
-The 'led.off()' method turns off the LED:
-<pre>
-led.off()
-</pre>
-
-The 'led.toggle()' method turns on if it was off and vice versa:
-<pre>
-led.toggle()
 </pre>
 
 4 ) My Program Examples:

@@ -34,3 +34,6 @@ Thonny's icon looks like: <br>
 3. Look for the folder name for your project, then click on a file. (Note: it can't open an entire folder, open one file at a time).
 
 4. Now, you're ready to go. Since you've created the folder and the files already, you only need to click the "Save" button and it would save. But, if you made a new one, follow the 4th step from **To Create New Projects**.
+
+# VS Code or Thonny?
+It is true both of these IDEs have benefits, but 

@@ -36,4 +36,8 @@ Thonny's icon looks like: <br>
 4. Now, you're ready to go. Since you've created the folder and the files already, you only need to click the "Save" button and it would save. But, if you made a new one, follow the 4th step from **To Create New Projects**.
 
 # VS Code or Thonny?
-It is true both of these IDEs have benefits, but 
+Both VS Code and Thonny have great options for you to offer, but which one is the best? And, what should you know before using one?
+
+## Visual Studio Code (VS Code)
+**Advantages:** <br>
+- **Fast and efficient: **VS Code is very lightweitgh and has a small footprint

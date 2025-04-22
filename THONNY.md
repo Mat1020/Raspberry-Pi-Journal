@@ -10,7 +10,7 @@ Thonny is a user-friendly, free, and open-source Integrated Development Environm
 ## To Access Thonny
 In order to open Thonny on your Raspberry Pi, you click **Raspberry Pi icon -> Programming -> Thonny.**
 
-Thonny's icon looks like: <br>
+Thonny's icon: <br>
 ![Thonny Icon](images/thonny_icon.png)
 
 ## To Create New Projects

@@ -84,7 +84,9 @@ Then, we have the resistor. The resistor is crucial for this circuit because it 
 Finally, we have the LED. The LED is being powered by the 100 ohm resistor on the positive leg and by direcly the negative row of the breadboard on the negative leg.
 
 ## Writting the Code
-For this project, we would be learning **3 commands** for the LED (even though we'd only using 2). We'd using [Thonny](THONNY.md) IDE to
+For this project, we would be learning **3 commands** for the LED (even though we'd only using 2) to turn on/off the LED to make it blink.
+
+We'd using [Thonny](THONNY.md) IDE for this project. Since this project is begginer, I strongly recommend using [Thonny](THONNY.md). Click on the link for more details and provided setps.
 
 | Command | Description | Module/Library | Programming Language | 
 |-----------|-----------|----------|----------|
@@ -108,8 +110,8 @@ Now, you're ready! You can use one of the 3 commands we discused about with your
 led.on()
 </pre>
 
-## Final Project
-As 
+## Final Code
+This is
 
 ➢ **Folders:** <br>
 A. LED Flash

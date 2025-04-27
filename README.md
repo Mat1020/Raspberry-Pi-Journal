@@ -111,7 +111,9 @@ led.on()
 </pre>
 
 ## Final Code
-For the final code of this project, it's organized similarly for the rest of the projects. There would be folders on this repo that you'll have to copy to your Raspberry Pi, and you do that by making the folder to that name and then making the files and the content on those files.
+For the final code of this project, it's organized similarly for the rest of the projects. 
+
+There would be folders on this repo that you'll have to copy to your Raspberry Pi, and you do that by making the folder to that name and then making the files and the content on those files.
 
 ➢ **Folders:** <br>
 A. LED Flash

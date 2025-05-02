@@ -12,7 +12,7 @@ There would be **Guides** that would be seen as links. These guides appear as li
 If you don't know what something means or you don't know how to use that thing, click on the link that would direct you the the correspoded guide.
 
 ## Sections
-These sections go (in my opinon) in a order from what **you should learn first.** Click on the link that would 
+These sections go (in my opinon) in a order from what **you should learn first.** Click on the link to go to that section.
 
 - [1. LEDs](Projects/LED/LED.md)
 - [2. Buttons](Projects/Button/Button.md)

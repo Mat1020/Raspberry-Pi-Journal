@@ -12,6 +12,7 @@ These sections go (in my opinon) in a order from what **you should learn first.*
 - [2. Buttons](Projects/Button/Button.md)
 - [3. RGB LEDs](Projects/RGB%20LED/RGBLED.md)
 - [4. Servos](Projects/Servo/Servo.md)
+
 <--! hello -->
 # Important Notes
 ## This repository 

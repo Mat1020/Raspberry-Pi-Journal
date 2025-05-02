@@ -1,9 +1,9 @@
 # Raspberry Pi Journal
 A repository to keep all the important information of hardware/electronics that the Raspberry Pi can control. This is a repository made by myself from my notes for the Raspberry Pi. Since I've so many notes that I've kept to myself, I decided to make a GitHub repository to publish these notes. I also have included a couple of more words so you're able to understand.
 
-This repository is compadable to every version of Raspberry Pi, but I'm not entirely sure. Since I only own a Raspberry Pi 4, I'm not sure if the tutorials would work the same to whatever Raspberry Pi you've. If you have any problems, please create an issue in the "Issues" section of this repository, I'll try to help you to whatever issue you face.
+This repository is compadable to every version of Raspberry Pi, but I'm not entirely sure. Since I only own a Raspberry Pi 4, I'm not sure if the tutorials would work the same to whatever Raspberry Pi you've. 
 
-In the future, I'd also attempt to make a video version based of this repository. But, not yet.
+If you have any problems, please create an issue in the "Issues" section of this repository, I'll try to help you to whatever issue you face. In the future, I'd also attempt to make a video version based of this repository. But, not yet.
 
 ## Sections
 These sections go (in my opinon) in a order from what **you should learn first.**

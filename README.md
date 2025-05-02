@@ -4,7 +4,7 @@ This is a repository made by myself for mainly notes to how to use certain hardw
 ## Sections
 These sections go, from my opnion, in a order from what you should learn first.
 
-- [LEDs](#Projects/LED/LED.md)
+- [1. LEDs](#Projects/LED/LED.md)
 
 
 # Controlling LED with Raspberry Pi GPIO

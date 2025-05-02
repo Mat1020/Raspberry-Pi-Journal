@@ -3,7 +3,7 @@ A repository to keep all the important information of hardware electronics that 
 
 If you have any problems, please create an issue in the "Issues" section of this repository, I'll try to help you to whatever issue you face. In the future, I'd also attempt to make a videos based of this repository. But, not yet.
 
-## Raspberry Pis Supported
+## Supported Raspberry Pis
 This repository is compadable to every version of Raspberry Pi, but I'm not entirely sure. Since I only own a Raspberry Pi 4, I'm not sure if my notes would work the same to whatever Raspberry Pi you've.
 
 ## Guides

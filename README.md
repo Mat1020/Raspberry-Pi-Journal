@@ -6,6 +6,9 @@ This repository is compadable to every version of Raspberry Pi, but I'm not enti
 If you have any problems, please create an issue in the "Issues" section of this repository, I'll try to help you to whatever issue you face. In the future, I'd also attempt to make a video version based of this repository. But, not yet.
 
 ## Sections
+
+<--! hello -->
+
 These sections go (in my opinon) in a order from what **you should learn first.**
 
 - [1. LEDs](Projects/LED/LED.md)
@@ -13,7 +16,6 @@ These sections go (in my opinon) in a order from what **you should learn first.*
 - [3. RGB LEDs](Projects/RGB%20LED/RGBLED.md)
 - [4. Servos](Projects/Servo/Servo.md)
 
-<--! hello -->
 # Important Notes
 ## This repository 
 

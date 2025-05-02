@@ -7,7 +7,7 @@ If you have any problems, please create an issue in the "Issues" section of this
 This repository is compadable to every version of Raspberry Pi, but I'm not entirely sure. Since I only own a Raspberry Pi 4, I'm not sure if my notes would work the same to whatever Raspberry Pi you've.
 
 ## Guides
-There would be **Guides** that would 
+There would be **Guides** that would be seen as links. These guides appear as links and are located in sentences. If you don't know what something means or you don't know how to use that thing, click on the link that would direct you the the correspoded guide.
 
 ## Sections
 These sections go (in my opinon) in a order from what **you should learn first.** Click on the link that would 
@@ -19,6 +19,8 @@ These sections go (in my opinon) in a order from what **you should learn first.*
 
 # Important Notes
 ## No Raspberry Pi Set-Up Provided
-In this 
+In this repository, I'd not provide you with a tutorial to how to get started with your Raspberry Pi. But, I can give you a set-up I use for my Raspberry Pi 4 without expending too much money:
 
-##  
+link
+
+This is the **Raspberry Pi Headless Set-Up**, which basiclly allows you to connect to your Raspberry Pi without need of a Monitor or Mouse for your Raspberry Pi, and use your personal compter instead! And yes, the only big disaventage is that you need a computer. 

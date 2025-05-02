@@ -8,7 +8,7 @@ If you have any problems, please create an issue in the "Issues" section of this
 ## Sections
 These sections go (in my opinon) in a order from what **you should learn first.**
 
-1. [LEDs](Projects/LED/LED.md)
+- [1. LEDs](Projects/LED/LED.md)
 - [2. Buttons](Projects/Button/Button.md)
 - [3. RGB LEDs](Projects/RGB%20LED/RGBLED.md)
 - [4. Servos](Projects/Servo/Servo.md)

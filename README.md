@@ -9,8 +9,6 @@ This repository is compadable to every version of Raspberry Pi, but I'm not enti
 ## Guides & Images
 There would be **Guides** that would 
 
-## Overview
-
 ## Sections
 These sections go (in my opinon) in a order from what **you should learn first.** Click on the link that would 
 

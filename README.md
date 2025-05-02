@@ -7,7 +7,9 @@ If you have any problems, please create an issue in the "Issues" section of this
 This repository is compadable to every version of Raspberry Pi, but I'm not entirely sure. Since I only own a Raspberry Pi 4, I'm not sure if my notes would work the same to whatever Raspberry Pi you've.
 
 ## Guides
-There would be **Guides** that would be seen as links. These guides appear as links and are located in sentences. If you don't know what something means or you don't know how to use that thing, click on the link that would direct you the the correspoded guide.
+There would be **Guides** that would be seen as links. These guides appear as links and are located in sentences. 
+
+If you don't know what something means or you don't know how to use that thing, click on the link that would direct you the the correspoded guide.
 
 ## Sections
 These sections go (in my opinon) in a order from what **you should learn first.** Click on the link that would 

@@ -5,6 +5,8 @@ This is a repository made by myself for mainly notes to how to use certain hardw
 These sections go, from my opnion, in a order from what you should learn first.
 
 - [1. LEDs](Projects/LED/LED.md)
+- [2. Buttons](Projects/Button/Button.md)
+- [3. RGB LEDs](Projects/RGB%20LED/RGBLED.md)
 
 
 # Controlling LED with Raspberry Pi GPIO

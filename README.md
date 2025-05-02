@@ -1,3 +1,6 @@
+# Journal
+This is a repository made by myself for mainly notes to how to use certain hardware with the Raspberry Pi with the outside world. I want to have all of this in this one repositorie. It'l guide you for many things you'll be interested in. 
+
 # Controlling LED with Raspberry Pi GPIO
 A repositorie to control any color or more than one LED with your Raspberry Pi. From this repositorie, it'll guide and teach you from everything you need to know about LEDs. From how to get started with LEDs with your Raspberry Pi in a begginer project, to how to do fancy circuits with LEDs with your Raspberry Pi, all in step-by-step.
 
